@@ -54,7 +54,7 @@ function setup() {
   text("poesía",128,280);
   text("=",243,280);
   text("código",318,280);  
-  
+  text("***Hacer click para continuar***",128,height-100);
 }
 
 function draw() {
